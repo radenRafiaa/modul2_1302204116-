@@ -1,0 +1,11 @@
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.csproj.AssemblyReference.cache
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.Form1.resources
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.Properties.Resources.resources
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.csproj.GenerateResource.cache
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.csproj.CoreCompileInputs.cache
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\bin\Debug\m2_1302204116.exe.config
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\bin\Debug\m2_1302204116.exe
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\bin\Debug\m2_1302204116.pdb
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.exe
+C:\Users\RAFI\pratikum_kpl\modul2_1302204116\m2_1302204116\m2_1302204116\obj\Debug\m2_1302204116.pdb
